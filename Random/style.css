@@ -14,6 +14,7 @@ html,body{
 width: 100%;
 background-image: url(./raul-taciu-VJpJFnMhLZ0-unsplash.jpg);
 background-size:cover;
+ background-attachment: scroll;
 }
 
 h1{
